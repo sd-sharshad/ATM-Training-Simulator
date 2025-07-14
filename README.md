@@ -14,19 +14,19 @@ ATM_Training_Simulator/
 ├── ATMExceptions.py # Defines custom exception classes
 ├── BankOperations.py # Performs deposit, withdrawal, and balance inquiry
 
-🚀 What This Project Does
+♦️ 🚀 What This Project Does
 
-📥 Allows users to deposit money
+💠📥 Allows users to deposit money
 
-💸 Enables withdrawals with minimum balance enforcement
+💠💸 Enables withdrawals with minimum balance enforcement
 
-📊 Shows current account balance
+💠📊 Shows current account balance
 
-❌ Rejects invalid amounts (e.g. negative, zero, or non-numeric)
+💠 ❌ Rejects invalid amounts (e.g. negative, zero, or non-numeric)
 
-💬 Provides helpful error messages using custom exception handling
+💠💬 Provides helpful error messages using custom exception handling
 
-🧠 Python Concepts Used
+♦️🧠 Python Concepts Used
 This project demonstrates a wide range of beginner-to-intermediate Python topics:
 
 ✅ 1. Modular Programming
@@ -58,7 +58,7 @@ Uses input() and safely converts strings to floats/integers.
 🧹 9. Code Cleanliness & Readability
 Descriptive variable names like account_balance, deposit_amount, and user_choice.
 
-Consistent formatting and clear messages for user interaction.
+♦️ Consistent formatting and clear messages for user interaction.
 💻 How to Run
 Ensure all four .py files are in the same folder.
 
